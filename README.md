@@ -56,7 +56,7 @@ The protocol aims to create sustainable value for token holders by:
 
 
 
-# Passive Value Growth:
+Passive Value Growth:
 
 • The 5% transfer tax ensures continuous accumulation of PLSX in the contract,increasing the backing value of each XBOND share.
 
@@ -64,7 +64,7 @@ The protocol aims to create sustainable value for token holders by:
 
 
 
-# Liquidity Provision Benefits:
+Liquidity Provision Benefits:
 
 • By contributing to the xBOND/PLSX
 liquidity pool,the protocol earns trading fees from Pulsex, indirectly benefiting holders through increased pool depth and stability.
@@ -73,8 +73,7 @@ liquidity pool,the protocol earns trading fees from Pulsex, indirectly benefitin
 
 
 
-
-# Deflationary Mechanics:
+Deflationary Mechanics:
 
 • Share redemption burns xBOND tokens,reducing total supply and potentially Increasing the value of remaining tokens.
 
@@ -82,7 +81,7 @@ liquidity pool,the protocol earns trading fees from Pulsex, indirectly benefitin
 
 
  
-# Accessible Entry and Exit:
+Accessible Entry and Exit:
 
 • Users can join during the 90-day issuance period with a reasonable minimum deposit (10 PLSX).
 
@@ -93,13 +92,11 @@ providing flexibility to exit with PLSX proportional to the contract's balance.
 
 
 
-
 # Why xBOND Earns Value for
 Holders
 
 
-
-# Transfer Tax Redistribution:
+Transfer Tax Redistribution:
 
 • Every XBOND transfer incurs 5% tax, of which 75% is swapped for PLSX and held by the contract's reserves.
 
@@ -107,7 +104,7 @@ Holders
 
 
 
-# Liquidity Withdrawal and Reinvestment:
+Liquidity Withdrawal and Reinvestment:
 
 • Every 180 days, 12.5% of LP tokens are withdrawn, yielding xBOND and PLSX.
 
@@ -117,7 +114,7 @@ Holders
 
 
 
-# Deflationary Pressure:
+Deflationary Pressure:
 
 • Redeeming shares burns xBOND, reducing total supply.
 
@@ -126,7 +123,7 @@ lower xBOND supply increases the PLSX per share, benefiting remaining holders.
 
 
 
-# Liquidity Pool Growth:
+Liquidity Pool Growth:
 
 • Fees from share issuance and transfers are used to add liquidity, deepening the
 xBOND/PLSX pool.
@@ -135,7 +132,7 @@ xBOND/PLSX pool.
 
 
 
-# Economic Incentives:
+Economic Incentives:
 
 • Scarcity and Demand: Limited issuance (90 days) and burning via redemption create scarcity, potentially driving demand for xBOND.
 
@@ -145,7 +142,7 @@ xBOND/PLSX pool.
 
 
 
-# Getting Started
+Getting Started
 
 • Acquire PLSX: Obtain PLSX tokens on Pulsex or other supported platforms.
 
