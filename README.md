@@ -1,6 +1,6 @@
-#xBOND Smart Contract
+# xBOND Smart Contract
 
-#Overview
+# Overview
 
 xBOND is an PRC20 token contract on the PulseChain network. It integrates with the PulseX DEX to manage a xBOND/PLSX liquidity pool. 
 
