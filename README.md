@@ -4,7 +4,7 @@ This readme provides a comprehensive overview of the xBOND protocol, its mechani
 
 
 
-# The protocol aims to create sustainable value for token holders by:
+The protocol aims to create sustainable value for token holders by:
 
 • Facilitating liquidity provision to a Pulsex liquidity pool (xBOND/PLSX pair).
 
