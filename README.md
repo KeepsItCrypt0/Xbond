@@ -137,7 +137,7 @@ Economic Incentives:
 
 • Passive Growth: Holders benefit without active management as taxes and reinvestments accrue value.
 
-• Market Dynamics: The protocol's ability to swap xBOND for PLSX capitalizes on favorable market conditions,optimizing returns.
+• Market Dynamics: The protocol's ability to swap xBOND for PLSX capitalizes on favorable market conditions, optimizing returns.
 
 
 
