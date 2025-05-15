@@ -92,8 +92,7 @@ providing flexibility to exit with PLSX proportional to the contract's balance.
 
 
 
-# Why xBOND Earns Value for
-Holders
+# Why xBOND Earns Value for Holders
 
 
 Transfer Tax Redistribution:
