@@ -20,7 +20,7 @@ Built with OpenZeppelin for security, including reentrancy protection and safe m
 
 
 
-View Functions
+View Functions:
 
 • calculateSharesReceived: Shares and fees for PLSX deposit.
 
@@ -41,6 +41,7 @@ View Functions
 • getTimeUntilNextWithdrawal: Time until next withdrawal.
 
 Security
+
 • Reentrancy: Protected with ReentrancyGuard.
 
 • Safe Math: Uses OpenZeppelin’s Math and SafeERC20.
@@ -50,7 +51,7 @@ Security
 • Validation: Enforces minimums and 18-decimal PLSX.
 
 License
-MIT License. See LICENSE.
+MIT License. 
 
 Contact
 
