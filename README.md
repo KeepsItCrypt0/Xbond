@@ -58,7 +58,7 @@ Deflationary Mechanics:
  
 Accessible Entry and Exit:
 
-• Users can issuethemselves xbond during the 90-day issuance period with a reasonable minimum deposit (10 PLSX).
+• Users can issue themselves xbond during the 90-day issuance period with a reasonable minimum deposit (10 PLSX).
 
 • A liquidity pool is created by contract that allows for user's to take advantage of discounts or premiums.
 
