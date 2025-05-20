@@ -30,7 +30,9 @@ The protocol aims to create sustainable value for token holders by:
 
 
 
+
 # Why Invest in xBOND?
+
 
 
 
@@ -41,6 +43,8 @@ Passive Value Growth:
 • liquidity withdrawal and reinvestment every 90 days optimize the contract's PLSX holdings, enhancing redeemable value.
 
 
+
+
 Deflationary Mechanics:
 
 • Share redemption burns xBOND tokens, reducing total supply and potentially Increasing the value of remaining tokens.
@@ -48,6 +52,7 @@ Deflationary Mechanics:
 • Lower supply, combined with growing PLSX reserves, can enhance the per-share backing ratio.
 
 • 20% of the transfer tax is burned making xbond deflationary.
+
 
 
  
@@ -64,7 +69,9 @@ providing flexibility to exit with PLSX proportional to the contract's balance.
 
 
 
+
 # Why xBOND Earns Value for Holders
+
 
 
 Transfer Tax Redistribution:
@@ -76,6 +83,7 @@ Transfer Tax Redistribution:
 • 20% of the transfer tax is burned making xbond deflationary and increases the plsx per xbond ratio.
 
 
+
 Liquidity Withdrawal and Reinvestment:
 
 • Every 90 days, 12.5% of LP tokens are withdrawn, yielding xBOND and PLSX.
@@ -83,6 +91,7 @@ Liquidity Withdrawal and Reinvestment:
 • Withdrawn xBOND is swapped for PLSX, consolidating the contract's holdings into PLSX.
 
 • This reinvestment increases the PLSX backing ratio, enhancing the value users can redeem per xbond.
+
 
 
 
